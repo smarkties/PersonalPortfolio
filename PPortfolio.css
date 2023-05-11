@@ -12,5 +12,20 @@ h1 {
 }
 
 .sidenav {
+	
+	margin: 0;
 	padding-top:100px;
+	padding-bottom:100cm;
 }
+
+.div1 {
+	
+	width:250px;
+	height:100%;
+	display:inline-block;
+	background-color: white;
+	margin-top: 0px;
+ 	padding: 0;
+  	position: fixed;
+  	overflow: hidden;
+}	
