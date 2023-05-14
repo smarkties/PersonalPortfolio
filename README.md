@@ -1,5 +1,5 @@
-# PersonalPortfolio
-website for personal portfolio
+## Personal Portfolio Design
 
-LIVE PREVIEW:
-https://hvnter04.github.io/PersonalPortfolio/
+### Live preview:
+
+#### https://hvnter04.github.io/PersonalPortfolio/
