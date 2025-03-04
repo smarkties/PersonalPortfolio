@@ -2,4 +2,4 @@
 
 ### Live preview:
 
-#### https://hvnter04.github.io/PersonalPortfolio/
+#### https://smarkties.github.io/PersonalPortfolio/
